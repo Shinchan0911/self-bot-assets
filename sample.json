@@ -1,0 +1,5 @@
+{
+  "counter-1": { "haas_side": "r", "haas_ms": 1.4, "wider": 28, "route": "mono" },
+  "counter-2": { "haas_side": "r", "haas_ms": 3.4, "wider": 71, "route": "mono" },
+  "hai-tai": { "haas_side": "r", "haas_ms": 19, "wider": 71, "route": "stereo" }
+}
