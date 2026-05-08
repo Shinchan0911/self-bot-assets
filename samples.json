@@ -1,5 +1,36 @@
 {
-  "counter-1": { "haas_side": "r", "haas_ms": 1.4, "wider": 28, "route": "mono" },
-  "counter-2": { "haas_side": "r", "haas_ms": 3.4, "wider": 71, "route": "mono" },
-  "hai-tai": { "haas_side": "r", "haas_ms": 19, "wider": 71, "route": "stereo" }
+  "counter-1": {
+    "haas_side": "r",
+    "haas_ms": 1.4,
+    "wider": 28,
+    "route": "mono"
+  },
+  "counter-2": {
+    "haas_side": "r",
+    "haas_ms": 3.4,
+    "wider": 71,
+    "route": "mono"
+  },
+  "hai-tai": {
+    "haas_side": "r",
+    "haas_ms": 19,
+    "wider": 71,
+    "route": "stereo"
+  },
+  "spatial-pro": {
+    "wider": 80,
+    "haas_ms": 15,
+    "haas_side": "r",
+    "treble": 8
+  },
+  "8d-vocal": {
+    "haas_ms": 19,
+    "haas_side": "l",
+    "wider": 50,
+    "mid": 5,
+  },
+  "eq-xa-nhac": {
+    "treble": 10,
+    "mid": 5
+  }
 }
