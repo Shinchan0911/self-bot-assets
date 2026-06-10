@@ -31,5 +31,59 @@
   "eq-xa-nhac": {
     "treble": 10,
     "mid": 5
+  },
+  "to-ro-rong-bao-quat": {
+    "name": "To - Rõ - Rộng - Bao Quát",
+    "description": "Âm thanh lớn, chi tiết, không gian rộng, bao phủ toàn bộ",
+    "haas_side": "both",
+    "haas_ms": 28,
+    "wider": 100,
+    "route": "stereo",
+    "treble": 8,
+    "mid": 7,
+    "bass": 6,
+    "reverb": 20,
+    "crossfeed": 75,
+    "stereo_base": 50,
+    "volume_boost": 3,
+    "delay_left": 10,
+    "delay_right": 10,
+    "phase_shift": 12,
+    "compression": 4,
+    "loudness": true
+  },
+  "bao-quat-toi-da": {
+    "name": "Bao Quát Tối Đa",
+    "description": "Cực to, cực rộng, phù hợp nhạc EDM, cinematic",
+    "wider": 100,
+    "haas_ms": 35,
+    "reverb": 30,
+    "volume_boost": 5,
+    "route": "stereo",
+    "treble": 9,
+    "mid": 8,
+    "bass": 7
+  },
+  "ro-chi-tiet": {
+    "name": "Rõ Chi Tiết",
+    "description": "Tối ưu cho giọng nói, podcast, vocal",
+    "treble": 10,
+    "mid": 8,
+    "bass": 3,
+    "reverb": 10,
+    "wider": 70,
+    "haas_ms": 15,
+    "route": "stereo"
+  },
+  "can-bang": {
+    "name": "Cân Bằng",
+    "description": "Cân bằng giữa to, rõ, rộng",
+    "treble": 6,
+    "mid": 6,
+    "bass": 5,
+    "wider": 70,
+    "haas_ms": 20,
+    "route": "stereo",
+    "reverb": 12
   }
 }
